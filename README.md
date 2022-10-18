@@ -26,3 +26,8 @@
   <a href="mailto:joaovitorgomesdeoliveira13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="center">
+
+  ![Snake animation](https://github.com/jvgoveira/jvgoveira/blob/87234c2d3596bdc5f30794a8c65faeaf3460bc8c/github-contribution-grid-snake.svg)
+  
+</div>
