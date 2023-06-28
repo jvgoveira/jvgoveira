@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/jvgoveira/github-readme-stats">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jvgoveira&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=nord&hide_border=false&show_owner=true&hide_rank=false"/>
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvgoveira&theme=nord&layout=compact&hide_title=false&hide_progress=true&hide_border=false"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvgoveira&theme=nord&layout=compact&hide_title=false&hide_progress=false&hide_border=false"/>
     <div/>
       
 <div align="center">
