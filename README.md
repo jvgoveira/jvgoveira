@@ -29,6 +29,7 @@
   <img align="center" alt="Proteus" height="38" width="50" src="https://raw.githubusercontent.com/jvgoveira/jvgoveira/main/Logos/logo%20proteus.png">
   <img align="center" alt="ST" height="50" width="50" src="https://raw.githubusercontent.com/jvgoveira/jvgoveira/main/Logos/logo%20ST.png">
   <img align="center" alt="Arm" height="50" width="50" src="https://raw.githubusercontent.com/jvgoveira/jvgoveira/main/Logos/logo%20arm.png">
+  <img align="center" alt="Arm" height="50" width="50" src="https://github.com/jvgoveira/jvgoveira/blob/main/Logos/png-transparent-espressif-systems-hd-logo-thumbnail-removebg-preview.png">
   </div>
   
 ## Contato:
